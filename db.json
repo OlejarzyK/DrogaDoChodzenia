@@ -32,32 +32,32 @@
       },
       {
         "id": 4,
-        "name": "",
-        "description": "",
-        "image_url": "",
-        "length": 0,
-        "best_lap": 0,
-        "best_lap_date": "0000-00-00",
+        "name": "Kowadło",
+        "description": "Szlak na szczyt w Górach Złotych",
+        "image_url": "https://tile.mapa-turystyczna.pl/map-xhdpi/10/560/345.v4043.png",
+        "length": 6,
+        "best_lap": 150,
+        "best_lap_date": "2021-03-22",
         "type": "chodzenie"
       },
       {
         "id": 5,
-        "name": "",
-        "description": "",
-        "image_url": "",
-        "length": 0,
-        "best_lap": 0,
-        "best_lap_date": "0000-00-00",
+        "name": "Wielka Racza",
+        "description": "Szlak z rycerki do koloni",
+        "image_url": "https://tile.mapa-turystyczna.pl/map-xhdpi/14/9057/5596.v4044.png",
+        "length": 4,
+        "best_lap": 105,
+        "best_lap_date": "2018-04-20",
         "type": "chodzenie"
       },
       {
         "id": 6,
-        "name": "",
-        "description": "",
-        "image_url": "",
-        "length": 0,
-        "best_lap": 0,
-        "best_lap_date": "0000-00-00",
+        "name": "Gesia Szyja",
+        "description": "Szlak w Tatrach przez Rusinową Polane",
+        "image_url": "https://gorydlaciebie.pl/wp-content/uploads/2017/01/Rusinowa-i-G%C4%99sia-Szyja-mapa.jpg",
+        "length": 3,
+        "best_lap": 45,
+        "best_lap_date": "2015-05-21",
         "type": "chodzenie"
       }
     ],
@@ -68,33 +68,33 @@
         "last_time": [
           {
             "route_id": 1,
-            "time": 0,
-            "date": "0000-00-00"
+            "time": 17280,
+            "date": "2018-08-14"
           },
           {
             "route_id": 2,
-            "time": 0,
-            "date": "0000-00-00"
+            "time": 140,
+            "date": "2021-07-04"
           },
           {
             "route_id": 3,
-            "time": 0,
-            "date": "0000-00-00"
+            "time": 4500,
+            "date": "2018-04-04"
           },
           {
             "route_id": 4,
-            "time": 0,
-            "date": "0000-00-00"
+            "time": 180,
+            "date": "2022-03-12"
           },
           {
             "route_id": 5,
-            "time": 0,
-            "date": "0000-00-00"
+            "time": 105,
+            "date": "2018-04-20"
           },
           {
             "route_id": 6,
-            "time": 0,
-            "date": "0000-00-00"
+            "time": 60,
+            "date": "2017-06-25"
           }
         ]
       }
