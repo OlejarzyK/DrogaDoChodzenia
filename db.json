@@ -2,33 +2,33 @@
     "routes": [
       {
         "id": 1,
-        "name": "",
-        "description": "",
-        "image_url": "",
-        "length": 0,
-        "best_lap": 0,
-        "best_lap_date": "0000-00-00",
-        "type": "chodzenie"
+        "name": "Route 66",
+        "description": "Droga łącząca Chicago z Santa Monika ",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Us_66_rough.svg/1200px-Us_66_rough.svg.png",
+        "length": 3945,
+        "best_lap": 17280,
+        "best_lap_date": "2018-08-14",
+        "type": "rowerowa"
       },
       {
         "id": 2,
-        "name": "",
-        "description": "",
-        "image_url": "",
-        "length": 0,
-        "best_lap": 0,
-        "best_lap_date": "0000-00-00",
-        "type": "chodzenie"
+        "name": "Velo Czorsztyn",
+        "description": "Trasa rowerowa wokół Jeziora Czorsztyńskiego",
+        "image_url": "https://www.kakemi.pl/wp-content/uploads/2021/12/velo-czorsztyn.jpg",
+        "length": 30,
+        "best_lap": 120,
+        "best_lap_date": "2020-07-04,
+        "type": "rowerowa"
       },
       {
         "id": 3,
-        "name": "",
-        "description": "",
-        "image_url": "",
-        "length": 0,
-        "best_lap": 0,
-        "best_lap_date": "0000-00-00",
-        "type": "chodzenie"
+        "name": "Trasa rowerowa R10 ",
+        "description": "Od Świnoujścia aż po Hel",
+        "image_url": "https://www.traseo.pl/share/szlak-rowerowy-r-aa-trasa-rowerowa-wybrzezem",
+        "length": 446,
+        "best_lap": 4320,
+        "best_lap_date": "2017-06-21",
+        "type": "rowerowa"
       },
       {
         "id": 4,
